@@ -2,6 +2,8 @@
 
 A responsive personal portfolio built with plain HTML, CSS and JavaScript.
 
+live demo:  https://manasvinaidu27.github.io/manasvi-portfolio/
+
 ## Files
 - `index.html` — portfolio content
 - `style.css` — responsive styling
